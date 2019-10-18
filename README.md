@@ -1,4 +1,4 @@
-A node project to interract with firebase database.
+A node project to interact with firebase database.
 
 Current functionalities.
 
